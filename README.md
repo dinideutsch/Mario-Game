@@ -11,12 +11,12 @@ success an appropriate message will be displayed
 This program was written in the Jack language
 for project 9 in the nand2tetris course.
 
-###Installation
+### Installation
 Download the software suite from [nand2tetris](https://www.nand2tetris.org/software). 
 The compiler and emulator are required as Jack programs
 run on the Hack hardware platform.
 
-###Build & Execution
+### Build & Execution
 
 1. Use jackComplier to compile the super mario dir or
    use the VM files attached
