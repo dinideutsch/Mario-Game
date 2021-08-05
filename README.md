@@ -1,4 +1,3 @@
-![mario_game_real_vidio](https://user-images.githubusercontent.com/86185062/128372882-87868baf-e3ce-4e68-90ac-4a4b479073bb.gif)
 This is a mario game where the player must jump over the pipes
 without touching the carnivorous flowers.
  
