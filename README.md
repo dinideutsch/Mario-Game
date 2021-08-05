@@ -22,6 +22,9 @@ run on the Hack hardware platform.
 3. Click yes in the confirmationg dialog In the toolbar, choose No animation in the Animate dropdown
 4. In the toolbar, click the double right arrows (3rd icon)
 
+### Demo
 
-Play the game!
+![realrealrealmario](https://user-images.githubusercontent.com/86185062/128379713-f42ef13a-bf30-424d-9e4b-29648900e90d.gif)
+
+Have fun!
 
